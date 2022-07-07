@@ -1,4 +1,4 @@
-# Brax.jl
+# IntPhys.jl
 
 ## Setup 
 
