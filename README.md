@@ -21,4 +21,6 @@ PYTHON=$(which python) PYCALL_JL_RUNTIME_PYTHON=$(which python) julia --project 
 ```julia
 julia> include("src/IntPhys.jl")
 
-```![brax](https://user-images.githubusercontent.com/17325401/177685545-58276c72-98f0-4fa2-a7ae-360b0c79bcc9.png)
+```
+
+![brax](https://user-images.githubusercontent.com/17325401/177685545-58276c72-98f0-4fa2-a7ae-360b0c79bcc9.png)
